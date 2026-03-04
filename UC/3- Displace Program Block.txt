@@ -1,0 +1,48 @@
+﻿## Use Case 3: displace block
+### Scope: Blockr programming game
+### Level: User goal
+### Primary Actor: User of the game
+### Stakeholders and Interests:
+- Player: Wants an easy drag and drop system from the program area to
+	  the palette. Wants no eventual gap caused by the removal.
+	  Wants the executable program to be edited accordingly.
+
+### Preconditions:
+- There is at least 1 block in the program area.
+- Program is not running.
+
+### Success Guarantee (or Postconditions):
+The block is displaced to appropriate position without overlap when dropped in 
+program area or is removed from the program area.
+
+### Main Success Scenario;
+1. User moves the mouse cursor over a block in the program area,
+then presses the left mouse key.
+2. System performs "Add Program Block"-use case (step 2).
+
+
+### Extensions (or Alternative Flows):
+*a At any time, user releases the left mouse key inside an if 
+   or while block or function definition.
+	1. The system eventually expands the cavity of that if or while block or function definition
+	   and accommodates the block inside that if or while block or function definition.
+
+*b At any time,the inital position of the moved block was inside an if or while block or a function definition and the
+   user releases the left mouse key outside the if or while block or function definition.
+	1. The system shrinks the cavity of that if or while block or function definition
+	   and accommodates the optional remaining block or group of blocks inside
+	   that if or while block or function definition.
+
+1a. User clicks on a block that belongs to a group of blocks.
+	1. System removes block from group
+		1a. Block was highest (or leftmost) or lowest (or rightmost)
+		    of the group.
+			1. Block is simply dragged from its position.
+		2a. Block was in between two blocks ("previous" and "next" blocks).
+			1. System pushes the "next" block and all eventual next blocks up.
+			2. System connects "next" block to "previous" block.
+
+
+
+
+

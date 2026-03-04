@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e4711f5-1fb6-4bfa-a137-7c179e6486e9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/allclasses-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/allclasses.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/allclasses.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/allpackages-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/BlockrGame.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/BlockrGame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/CanvasWindow.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/CanvasWindow.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/GameWorldSection.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/GameWorldSection.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/MyCanvasWindow.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/MyCanvasWindow.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/PaletteSection.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/PaletteSection.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/ProgramArea.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/ProgramArea.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/ProgramAreaSection.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/ProgramAreaSection.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/PushBlocks.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/PushBlocks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/WindowSection.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/WindowSection.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/Windows.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/Windows.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/ActionBlock.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/ActionBlock.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/Block.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/Block.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/BlockWithBody.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/BlockWithBody.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/ConditionBlock.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/ConditionBlock.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/Executable.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/Executable.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/ExecuteType.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/ExecuteType.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/ExecutedBlocks.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/ExecutedBlocks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/FunctionCallBlock.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/FunctionCallBlock.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/FunctionDefinitionBlock.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/FunctionDefinitionBlock.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/HorizontallyConnectable.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/HorizontallyConnectable.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/IfBlock.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/IfBlock.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/StatementBlock.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/StatementBlock.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/VerticallyConnectable.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/VerticallyConnectable.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/WhileBlock.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/WhileBlock.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/blocks/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/command/BlockrGameCommand.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/command/BlockrGameCommand.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/command/DeleteBlockCommand.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/command/DeleteBlockCommand.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/command/DropBlockCommand.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/command/DropBlockCommand.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/command/ExecuteCommand.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/command/ExecuteCommand.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/command/GameWorldCommand.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/command/GameWorldCommand.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/command/ICommand.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/command/ICommand.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/command/ProgramAreaCommand.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/command/ProgramAreaCommand.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/command/ResetCommand.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/command/ResetCommand.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/command/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/command/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/command/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/command/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/handlers/BlockrGameFacade.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/handlers/BlockrGameFacade.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/handlers/DisplaceBlockHandler.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/handlers/DisplaceBlockHandler.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/handlers/ExecuteProgramHandler.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/handlers/ExecuteProgramHandler.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/handlers/SharedData.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/handlers/SharedData.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/handlers/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/handlers/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/handlers/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/handlers/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/uiElements/BlockType.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/uiElements/BlockType.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/uiElements/BlockTypes.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/uiElements/BlockTypes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/uiElements/BlockTypes.stdBlockData.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/uiElements/BlockTypes.stdBlockData.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/uiElements/UIActionBlock.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/uiElements/UIActionBlock.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/uiElements/UIBlock.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/uiElements/UIBlock.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/uiElements/UIBlockWithBody.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/uiElements/UIBlockWithBody.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/uiElements/UIConditionBlock.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/uiElements/UIConditionBlock.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/uiElements/UIFunctionCall.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/uiElements/UIFunctionCall.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/uiElements/UIFunctionDefinition.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/uiElements/UIFunctionDefinition.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/uiElements/UIStatementBlock.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/uiElements/UIStatementBlock.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/uiElements/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/uiElements/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/uiElements/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/com/swop/uiElements/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/element-list" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/element-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-14.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-15.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-16.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-17.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-18.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-18.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/index-files/index-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/jquery/external/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/jquery/external/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/jquery/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/jquery/jquery-3.3.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/jquery/jquery-migrate-3.0.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/jquery/jquery-migrate-3.0.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/jquery/jquery-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/jquery/jquery-ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/jquery/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/jquery/jquery-ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/jquery/jquery-ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/jquery/jquery-ui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/jquery/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/jquery/jquery-ui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/jquery/jquery-ui.structure.css" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/jquery/jquery-ui.structure.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/jquery/jquery-ui.structure.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/jquery/jquery-ui.structure.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/jquery/jszip-utils/dist/jszip-utils-ie.js" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/jquery/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/jquery/jszip-utils/dist/jszip-utils-ie.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/jquery/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/jquery/jszip-utils/dist/jszip-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/jquery/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/jquery/jszip-utils/dist/jszip-utils.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/jquery/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/jquery/jszip/dist/jszip.js" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/jquery/jszip/dist/jszip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/jquery/jszip/dist/jszip.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/jquery/jszip/dist/jszip.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/overview-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BlockrJavaDoc/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/../BlockrJavaDoc/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-backend/src/main/java/com/swop/blocks/BlockGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/code-backend/src/main/java/com/swop/blocks/BlockGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-backend/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/code-backend/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-backend/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/code-backend/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-backend/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/code-backend/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-backend/target/surefire-reports/CharacterTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/code-backend/target/surefire-reports/CharacterTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-backend/target/surefire-reports/ProgramTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/code-backend/target/surefire-reports/ProgramTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-backend/target/surefire-reports/TEST-CharacterTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code-backend/target/surefire-reports/TEST-CharacterTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-backend/target/surefire-reports/TEST-ProgramTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/code-backend/target/surefire-reports/TEST-ProgramTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-frontend/src/main/java/com/swop/handlers/DisplaceBlockHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/code-frontend/src/main/java/com/swop/handlers/DisplaceBlockHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-frontend/src/main/java/com/swop/uiElements/UIStatementBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/code-frontend/src/main/java/com/swop/uiElements/UIStatementBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-frontend/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/code-frontend/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-frontend/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/code-frontend/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/.idea/dictionaries/adam.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/.idea/dictionaries/adam.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/.idea/libraries/gameworldapi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/.idea/libraries/gameworldapi.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/.idea/shelf/Uncommitted_changes_before_Update_at_19_05_20,_18_24_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/.idea/shelf/Uncommitted_changes_before_Update_at_19_05_20__18_24__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/.idea/shelf/Uncommitted_changes_before_Update_at_23_05_20,_01_49_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/.idea/shelf/Uncommitted_changes_before_Update_at_23_05_20__01_49__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/.idea/shelf/Uncommitted_changes_before_Update_at_24_05_20,_14_01_[Default_Changelist]/shelved.patch" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/.idea/shelf/Uncommitted_changes_before_Update_at_24_05_20,_14_01_[Default_Changelist]/shelved.patch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/.idea/shelf/Uncommitted_changes_before_Update_at_24_05_20__14_01__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/.idea/shelf/Uncommitted_changes_before_Update_at_24_05_20__14_01__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/.idea/shelf/Uncommitted_changes_before_Update_at_28_04_20,_17_13_[Default_Changelist]/shelved.patch" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/.idea/shelf/Uncommitted_changes_before_Update_at_28_04_20,_17_13_[Default_Changelist]/shelved.patch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/.idea/shelf/Uncommitted_changes_before_Update_at_28_04_20__17_13__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/.idea/shelf/Uncommitted_changes_before_Update_at_28_04_20__17_13__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/Code2.vpdm/Class Diagram1.vpd" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/Code2.vpdm/Class Diagram1.vpd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/BlockrGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/BlockrGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/ProgramArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/ProgramArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/PushBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/PushBlocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/blocks/ActionBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/blocks/ActionBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/blocks/Block.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/blocks/Block.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/blocks/BlockWithBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/blocks/BlockWithBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/blocks/ConditionBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/blocks/ConditionBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/blocks/Executable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/blocks/Executable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/blocks/ExecuteType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/blocks/ExecuteType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/blocks/ExecutedBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/blocks/ExecutedBlocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/blocks/FunctionCallBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/blocks/FunctionCallBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/blocks/FunctionDefinitionBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/blocks/FunctionDefinitionBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/blocks/HorizontallyConnectable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/blocks/HorizontallyConnectable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/blocks/IfBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/blocks/IfBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/blocks/StatementBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/blocks/StatementBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/blocks/VerticallyConnectable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/blocks/VerticallyConnectable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/blocks/WhileBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/blocks/WhileBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/command/BlockrGameCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/command/BlockrGameCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/command/DeleteBlockCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/command/DeleteBlockCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/command/DropBlockCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/command/DropBlockCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/command/ExecuteCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/command/ExecuteCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/command/ICommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/command/ICommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/command/ProgramAreaCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/command/ProgramAreaCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/command/ResetCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/main/java/com/swop/command/ResetCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/BlockrGameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/BlockrGameTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/ProgramAreaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/ProgramAreaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/PushBlocksTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/PushBlocksTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/blocks/ActionBlockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/blocks/ActionBlockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/blocks/BlockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/blocks/BlockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/blocks/BlockWithBodyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/blocks/BlockWithBodyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/blocks/ConditionBlockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/blocks/ConditionBlockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/blocks/FunctionCallBlockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/blocks/FunctionCallBlockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/blocks/FunctionDefinitionBlockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/blocks/FunctionDefinitionBlockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/blocks/IfBlockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/blocks/IfBlockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/blocks/StatementBlockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/blocks/StatementBlockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/blocks/WhileBlockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/blocks/WhileBlockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/command/DeleteBlockCommandTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/command/DeleteBlockCommandTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/command/DropBlockCommandTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/command/DropBlockCommandTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/command/ExecuteCommandTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/command/ExecuteCommandTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/command/ResetCommandTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/src/test/java/com/swop/command/ResetCommandTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-backend/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-backend/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-frontend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-frontend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/CanvasWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/CanvasWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/GameWorldSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/GameWorldSection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/MyCanvasWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/MyCanvasWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/PaletteSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/PaletteSection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/ProgramAreaSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/ProgramAreaSection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/WindowSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/WindowSection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/handlers/BlockrGameFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/handlers/BlockrGameFacade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/handlers/DisplaceBlockHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/handlers/DisplaceBlockHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/handlers/ExecuteProgramHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/handlers/ExecuteProgramHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/handlers/SharedData.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/handlers/SharedData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/uiElements/BlockType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/uiElements/BlockType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/uiElements/BlockTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/uiElements/BlockTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/uiElements/UIActionBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/uiElements/UIActionBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/uiElements/UIBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/uiElements/UIBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/uiElements/UIBlockWithBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/uiElements/UIBlockWithBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/uiElements/UIConditionBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/uiElements/UIConditionBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/uiElements/UIFunctionCall.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/uiElements/UIFunctionCall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/uiElements/UIFunctionDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/uiElements/UIFunctionDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/uiElements/UIStatementBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-frontend/src/main/java/com/swop/uiElements/UIStatementBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-frontend/src/test/java/com/swop/handlers/DisplaceBlockHandlerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-frontend/src/test/java/com/swop/handlers/DisplaceBlockHandlerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-frontend/src/test/java/com/swop/handlers/ExecuteProgramHandlerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-frontend/src/test/java/com/swop/handlers/ExecuteProgramHandlerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/code-frontend/src/test/java/com/swop/handlers/SharedDataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/code-frontend/src/test/java/com/swop/handlers/SharedDataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Code2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Code2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameWorldAPI/GameWorld/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GameWorldAPI/GameWorld/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameWorldAPI/GameWorld/src/main/java/com/swop/Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameWorldAPI/GameWorld/src/main/java/com/swop/Action.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameWorldAPI/GameWorld/src/main/java/com/swop/GameWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameWorldAPI/GameWorld/src/main/java/com/swop/GameWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameWorldAPI/GameWorld/src/main/java/com/swop/GameWorldType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameWorldAPI/GameWorld/src/main/java/com/swop/GameWorldType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameWorldAPI/GameWorld/src/main/java/com/swop/Predicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameWorldAPI/GameWorld/src/main/java/com/swop/Predicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameWorldAPI/GameWorld/src/main/java/com/swop/Snapshot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameWorldAPI/GameWorld/src/main/java/com/swop/Snapshot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameWorldAPI/GameWorld/src/main/java/com/swop/SuccessState.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameWorldAPI/GameWorld/src/main/java/com/swop/SuccessState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameWorldAPI/MyGameWorld/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GameWorldAPI/MyGameWorld/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameWorldAPI/MyGameWorld/src/main/java/com/swop/MyAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameWorldAPI/MyGameWorld/src/main/java/com/swop/MyAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameWorldAPI/MyGameWorld/src/main/java/com/swop/MyGameWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameWorldAPI/MyGameWorld/src/main/java/com/swop/MyGameWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameWorldAPI/MyGameWorld/src/main/java/com/swop/MyGameWorldType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameWorldAPI/MyGameWorld/src/main/java/com/swop/MyGameWorldType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameWorldAPI/MyGameWorld/src/main/java/com/swop/MyPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameWorldAPI/MyGameWorld/src/main/java/com/swop/MyPredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameWorldAPI/MyGameWorld/src/main/java/com/swop/MySnapshot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameWorldAPI/MyGameWorld/src/main/java/com/swop/MySnapshot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameWorldAPI/MyGameWorld/src/main/java/com/swop/NumSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameWorldAPI/MyGameWorld/src/main/java/com/swop/NumSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameWorldAPI/MyGameWorld/src/test/java/com/swop/MyGameWorldTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameWorldAPI/MyGameWorld/src/test/java/com/swop/MyGameWorldTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameWorldAPI/MyGameWorld/src/test/java/com/swop/MyGameWorldTypeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameWorldAPI/MyGameWorld/src/test/java/com/swop/MyGameWorldTypeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameWorldAPI/MyGameWorld/src/test/java/com/swop/NumSquareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameWorldAPI/MyGameWorld/src/test/java/com/swop/NumSquareTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameWorldAPI/RobotGameWorld/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GameWorldAPI/RobotGameWorld/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameWorldAPI/RobotGameWorld/src/main/java/com/swop/Direction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameWorldAPI/RobotGameWorld/src/main/java/com/swop/Direction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameWorldAPI/RobotGameWorld/src/main/java/com/swop/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameWorldAPI/RobotGameWorld/src/main/java/com/swop/Robot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameWorldAPI/RobotGameWorld/src/main/java/com/swop/RobotAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameWorldAPI/RobotGameWorld/src/main/java/com/swop/RobotAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameWorldAPI/RobotGameWorld/src/main/java/com/swop/RobotGameWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameWorldAPI/RobotGameWorld/src/main/java/com/swop/RobotGameWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameWorldAPI/RobotGameWorld/src/main/java/com/swop/RobotGameWorldType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameWorldAPI/RobotGameWorld/src/main/java/com/swop/RobotGameWorldType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameWorldAPI/RobotGameWorld/src/main/java/com/swop/RobotPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameWorldAPI/RobotGameWorld/src/main/java/com/swop/RobotPredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameWorldAPI/RobotGameWorld/src/main/java/com/swop/RobotSnapshot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameWorldAPI/RobotGameWorld/src/main/java/com/swop/RobotSnapshot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameWorldAPI/RobotGameWorld/src/main/java/com/swop/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameWorldAPI/RobotGameWorld/src/main/java/com/swop/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameWorldAPI/RobotGameWorld/src/test/java/com/swop/DirectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameWorldAPI/RobotGameWorld/src/test/java/com/swop/DirectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameWorldAPI/RobotGameWorld/src/test/java/com/swop/RobotActionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameWorldAPI/RobotGameWorld/src/test/java/com/swop/RobotActionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameWorldAPI/RobotGameWorld/src/test/java/com/swop/RobotGameWorldTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameWorldAPI/RobotGameWorld/src/test/java/com/swop/RobotGameWorldTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameWorldAPI/RobotGameWorld/src/test/java/com/swop/RobotGameWorldTypeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameWorldAPI/RobotGameWorld/src/test/java/com/swop/RobotGameWorldTypeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GameWorldAPI/RobotGameWorld/src/test/java/com/swop/RobotPredicateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GameWorldAPI/RobotGameWorld/src/test/java/com/swop/RobotPredicateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/allclasses-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/allclasses.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/allclasses.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/allpackages-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/com/swop/Action.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/com/swop/Action.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/com/swop/GameWorld.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/com/swop/GameWorld.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/com/swop/GameWorldType.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/com/swop/GameWorldType.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/com/swop/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/com/swop/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/com/swop/Predicate.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/com/swop/Predicate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/com/swop/Snapshot.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/com/swop/Snapshot.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/com/swop/SuccessState.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/com/swop/SuccessState.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/com/swop/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/com/swop/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/com/swop/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/com/swop/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/element-list" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/element-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/index-files/index-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/index-files/index-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/index-files/index-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/index-files/index-11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/index-files/index-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/index-files/index-12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/index-files/index-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/index-files/index-13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/index-files/index-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/index-files/index-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/index-files/index-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/jquery/external/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/jquery/external/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/jquery/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/jquery/jquery-3.3.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/jquery/jquery-migrate-3.0.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/jquery/jquery-migrate-3.0.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/jquery/jquery-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/jquery/jquery-ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/jquery/jquery-ui.js" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/jquery/jquery-ui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/jquery/jquery-ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/jquery/jquery-ui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/jquery/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/jquery/jquery-ui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/jquery/jquery-ui.structure.css" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/jquery/jquery-ui.structure.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/jquery/jquery-ui.structure.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/jquery/jquery-ui.structure.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/jquery/jszip-utils/dist/jszip-utils-ie.js" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/jquery/jszip-utils/dist/jszip-utils-ie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/jquery/jszip-utils/dist/jszip-utils-ie.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/jquery/jszip-utils/dist/jszip-utils-ie.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/jquery/jszip-utils/dist/jszip-utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/jquery/jszip-utils/dist/jszip-utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/jquery/jszip-utils/dist/jszip-utils.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/jquery/jszip-utils/dist/jszip-utils.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/jquery/jszip/dist/jszip.js" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/jquery/jszip/dist/jszip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/jquery/jszip/dist/jszip.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/jquery/jszip/dist/jszip.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaDoc/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaDoc/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Markdown/game_world_api_spec.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Markdown/game_world_api_spec.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/iteration1/BlockClassDiagram.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/../Models/iteration1/BlockClassDiagram.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/iteration1/ClassDiagraml.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/../Models/iteration1/ClassDiagraml.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/iteration1/ClassHierarchy.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/../Models/iteration1/ClassHierarchy.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/iteration1/DomainModel.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/../Models/iteration1/DomainModel.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/iteration1/extra/InteractionBlocks.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/../Models/iteration1/extra/InteractionBlocks.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/iteration1/extra/InteractionExecute.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/../Models/iteration1/extra/InteractionExecute.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/iteration1/extra/SSD.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/../Models/iteration1/extra/SSD.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/iteration2/editable-files/umlet/ActionPredicateRevision.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/../Models/iteration2/editable-files/umlet/ActionPredicateRevision.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/iteration2/editable-files/umlet/DomainModel.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/../Models/iteration2/editable-files/umlet/DomainModel.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/iteration2/editable-files/umlet/InteractionBlocks.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/../Models/iteration2/editable-files/umlet/InteractionBlocks.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/iteration2/editable-files/umlet/InteractionExecute.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/../Models/iteration2/editable-files/umlet/InteractionExecute.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/iteration2/editable-files/umlet/SSD.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/../Models/iteration2/editable-files/umlet/SSD.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/iteration2/editable-files/umlet/execution-diagram.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/../Models/iteration2/editable-files/umlet/execution-diagram.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/iteration2/editable-files/umlet/release-diagram.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/../Models/iteration2/editable-files/umlet/release-diagram.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/iteration3/editable-files/umlet/ActionPredicateRevision.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/../Models/iteration3/editable-files/umlet/ActionPredicateRevision.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/iteration3/editable-files/umlet/DomainModel.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/../Models/iteration3/editable-files/umlet/DomainModel.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/iteration3/editable-files/umlet/DomainModelupdate.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/../Models/iteration3/editable-files/umlet/DomainModelupdate.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/iteration3/editable-files/umlet/execution-diagram.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/../Models/iteration3/editable-files/umlet/execution-diagram.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/iteration3/editable-files/umlet/release-diagram.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/../Models/iteration3/editable-files/umlet/release-diagram.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/iteration3/editable-files/vpp/backfrontupdate.vpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Models/iteration3/editable-files/vpp/backfrontupdate.vpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Models/iteration3/editable-files/vpp/ssdcommandsnew.vpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Models/iteration3/editable-files/vpp/ssdcommandsnew.vpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simplegameapp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simplegameapp/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simplegameapp/src/main/java/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../Simplegameapp/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simplegameapp/src/main/java/com/swop/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Simplegameapp/src/main/java/com/swop/Button.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simplegameapp/src/main/java/com/swop/CanvasWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Simplegameapp/src/main/java/com/swop/CanvasWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simplegameapp/src/main/java/com/swop/ClickHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Simplegameapp/src/main/java/com/swop/ClickHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simplegameapp/src/main/java/com/swop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Simplegameapp/src/main/java/com/swop/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simplegameapp/src/main/java/com/swop/MyCanvasWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Simplegameapp/src/main/java/com/swop/MyCanvasWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simplegameapp/src/test/java/com/swop/ButtonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Simplegameapp/src/test/java/com/swop/ButtonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Simplegameapp/src/test/java/com/swop/ClickHandlerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Simplegameapp/src/test/java/com/swop/ClickHandlerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UC/1- Add Program Block.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../UC/1- Add Program Block.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UC/2- Execute Program.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../UC/2- Execute Program.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UC/3- Displace Program Block.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../UC/3- Displace Program Block.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UC/4- Undo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../UC/4- Undo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UC/5- Redo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../UC/5- Redo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UC/usecaseDiagram (2).uxf" beforeDir="false" afterPath="$PROJECT_DIR$/../UC/usecaseDiagram (2).uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UC/usecasediagarmupdate.uxf" beforeDir="false" afterPath="$PROJECT_DIR$/../UC/usecasediagarmupdate.uxf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../worlds/HowToRun.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../worlds/HowToRun.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZLZDUwtdXrqcw28BIxCYyjkdDq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Code2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.swop.Main" />
+      <module name="code-frontend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.swop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharacterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="code-backend" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CharacterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="code-backend" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProgramTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramTest.executeP0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="code-backend" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProgramTest" />
+      <option name="METHOD_NAME" value="executeP0" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramTest.executeP4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="code-backend" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ProgramTest" />
+      <option name="METHOD_NAME" value="executeP4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProgramTest.executeP4" />
+        <item itemvalue="JUnit.ProgramTest.executeP0" />
+        <item itemvalue="JUnit.ProgramTest" />
+        <item itemvalue="JUnit.CharacterTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e4711f5-1fb6-4bfa-a137-7c179e6486e9" name="Default Changelist" comment="" />
+      <created>1584620214067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584620214067</updated>
+      <workItem from="1584620221456" duration="9324000" />
+      <workItem from="1584630617807" duration="91000" />
+      <workItem from="1584800152725" duration="436000" />
+      <workItem from="1585083282291" duration="1018000" />
+      <workItem from="1585084768093" duration="6833000" />
+      <workItem from="1585124947454" duration="2693000" />
+      <workItem from="1585407498448" duration="1385000" />
+      <workItem from="1585601130802" duration="195000" />
+      <workItem from="1585601636715" duration="3576000" />
+      <workItem from="1585658897318" duration="24000" />
+      <workItem from="1587670372272" duration="51000" />
+      <workItem from="1587681531110" duration="1923000" />
+      <workItem from="1596746666591" duration="651000" />
+      <workItem from="1596747365492" duration="216000" />
+    </task>
+    <task id="LOCAL-00001" summary="testen gefixt enkel ProgramTest.executeP0 moet in program zelf nog aanpassingen gebeuren">
+      <created>1584630127590</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584630127590</updated>
+    </task>
+    <task id="LOCAL-00002" summary="testen gefixt enkel ProgramTest.executeP0 moet in program zelf nog aanpassingen gebeuren">
+      <created>1585601271006</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585601271006</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="testen gefixt enkel ProgramTest.executeP0 moet in program zelf nog aanpassingen gebeuren" />
+    <option name="LAST_COMMIT_MESSAGE" value="testen gefixt enkel ProgramTest.executeP0 moet in program zelf nog aanpassingen gebeuren" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="766" y="311" width="1024" height="848" key="#Project_Structure" timestamp="1596746801694">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state x="766" y="311" width="1024" height="848" key="#Project_Structure/0.27.2560.1413@0.27.2560.1413" timestamp="1596746801694" />
+    <state x="696" y="953" width="424" height="487" key="FileChooserDialogImpl" timestamp="1596747582598">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state x="696" y="953" width="424" height="487" key="FileChooserDialogImpl/0.27.2560.1413@0.27.2560.1413" timestamp="1596747582598" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/code-backend/src/main/java/com/swop/worldElements/GameWorld.java</url>
+          <line>84</line>
+          <properties class="com.swop.worldElements.GameWorld" method="move">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/code-backend/src/main/java/com/swop/worldElements/GameWorld.java</url>
+          <line>116</line>
+          <properties class="com.swop.worldElements.GameWorld" method="turn">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/code-backend/src/main/java/com/swop/blocks/StatementBlock.java</url>
+          <line>41</line>
+          <properties class="com.swop.blocks.StatementBlock" method="wallInFront">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/code-frontend/src/main/java/com/swop/windowElements/UIProgramArea.java</url>
+          <line>143</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/code-frontend/src/main/java/com/swop/uiElements/UIStatementBlock.java</url>
+          <line>120</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="isPositionInBoundaries(position)" language="JAVA" />
+        <watch expression="copy" language="JAVA" />
+        <watch expression="isPositionInBoundaries(position)" />
+        <watch expression="getGrid()[position[0]][position[1]].isPassable())" />
+      </configuration>
+      <configuration name="Application">
+        <watch expression="b == uiBlock" language="JAVA" />
+        <watch expression="getUiBlocks()" language="JAVA" />
+        <watch expression="getDistance(uiBlock.getSocketPosition(), ((UIStatementBlock)b).getConditionPlugPosition(this))" language="JAVA" />
+        <watch expression="uiBlock.getSocketPosition()" language="JAVA" />
+        <watch expression="((UIStatementBlock)b).getConditionPlugPosition(this)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

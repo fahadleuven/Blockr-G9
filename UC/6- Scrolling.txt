@@ -1,0 +1,52 @@
+﻿## Use Case 6: Scrolling  
+### Scope: Blockr programming game
+### Level: User goal
+### Primary Actor: User of the game
+### Stakeholders and Interests:
+- Player: Wants to drag the slider to make another part
+ of the contents visible.
+
+### Preconditions:
+- A vertical scrollbar shall be visible.
+- The contents of an area not fit inside the area.
+- The scrollbar consists of a slider and empty space above and below it.
+
+### Success Guarantee (or Postconditions):
+Blockr programming game window(when player draged the slider ) corresponds to 
+the position of the visible part of the contents .
+
+### Main Success Scenario;
+1. User moves the mouse cursor over the scrollbar in the right side,
+then presses the left mouse key on that side.
+
+2. System makes a corresponding position of the visible part of the contents.
+3. System shows the new window corresponding to 
+the position of the visible part of the contents. 
+ 
+ 
+
+### Extensions (or Alternative Flows):
+*a At any time, user drag the slider with the left mouse key inside the area 
+   of scrollbar.
+	1. System shows the part of the contents that
+ corresponding to the position of the slider.
+
+1a. When the user click above the slider.
+	1. System shows the part of the contents closer to 
+the top of the contents.
+	
+1b. the User click below the slider.
+	1. The system shows the part of the contents closer 
+to the bottom of the contents.
+
+*b. User click the left mouse key on an area that is out of area of scrollbar.
+	1. The system donot change anythings.
+	2. The system shows the part with current postion corresponding 
+to the position of the visible part of the contents.
+
+ *c the contents of an area fit inside the area.
+      1.The system makes the scrollvar disable.
+      2.The system shows Palette, the Program Area,
+ and the Game World with origin position without scrolling.
+
+ 
